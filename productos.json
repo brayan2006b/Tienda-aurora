@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Sistema Solar del Amor Cósmico",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva 3D con 8 planetas y frases personalizadas.",
+    "imagen": "sistema.png",
+    "idRef": "sistema-solar"
+  },
+  {
+    "id": 2,
+    "titulo": "Carta",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Menú o carta digital",
+    "imagen": "carta.jpg",
+    "idRef": "carta"
+  },
+  {
+    "id": 3,
+    "titulo": "Corazón Interactivo",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva con temática de corazón.",
+    "imagen": "corazon.jpg",
+    "idRef": "corazon"
+  },
+  {
+    "id": 4,
+    "titulo": "Galaxia de Amor",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva con temática de galaxia estelar.",
+    "imagen": "galaxia.png",
+    "idRef": "galaxia-amor"
+  },
+  {
+    "id": 5,
+    "titulo": "Árbol que Crece con Nuestro Amor",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva de un árbol que crece con nuestro amor.",
+    "imagen": "arbol.png",
+    "idRef": "arbol"
+  },
+  {
+    "id": 6,
+    "titulo": "Mi lugar favorito",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva de un árbol floreciendo bajo las estrellas con mensaje romántico.",
+    "imagen": "Mi lugar favorito.png",
+    "idRef": "mi-lugar-favorito"
+  },
+  {
+    "id": 7,
+    "titulo": "Un regalo para ti",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva romántica junto al mar con olas, palmeras y música.",
+    "imagen": "playa.png",
+    "idRef": "playa"
+  },
+  {
+    "id": 8,
+    "titulo": "Globo del Amor",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva con temática de globo aerostático y romance.",
+    "imagen": "globoy",
+    "idRef": "globo"
+  }
+]
