@@ -70,5 +70,32 @@
     "descripcion": "Experiencia interactiva con temática de globo aerostático y romance.",
     "imagen": "globoy",
     "idRef": "globo"
+  },
+  {
+    "id": 9,
+    "titulo": "Rosas que Florecen",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva especial con rosas floreciendo y dedicatoria personalizada.",
+    "imagen": "rosa.png",
+    "idRef": "rosas-que-florecen"
+  },
+  {
+    "id": 10,
+    "titulo": "Propuesta Playa",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Animación romántica de sombras en la playa, entrega de rosa, declaración y fuegos artificiales.",
+    "imagen": "playapropuesta.png",
+    "idRef": "propuesta-playa"
+  },
+  {
+    "id": 11,
+    "titulo": "Un camino hacia ti",
+    "precio": 25,
+    "moneda": "MXN",
+    "descripcion": "Experiencia interactiva romántica con un sendero especial y mensajes profundos.",
+    "imagen": "camino.png",
+    "idRef": "un-camino-hacia-ti"
   }
 ]
